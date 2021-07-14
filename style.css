@@ -5,8 +5,8 @@ body{
 h1{
     color: #FFFFFF;
     font-size: 50px;
-}
 
+}
 .flexible-container{
     display: flex;
     width: 1440px;
@@ -154,14 +154,15 @@ h1{
     margin: 1rem 0 3rem 0;
 }
 .socials li{
-    margin: 0 10px;
+   
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
 
 }
 
-.socials a i{
-    font-size: 1.1rem;
-    transition: color .4s ease;
-}
 .footer-bottom{
     width: 102vw;
     padding: 20px 0;
